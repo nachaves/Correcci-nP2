@@ -31,3 +31,8 @@ insert into comidas (n_comida) values ('Pescado');
 insert into comidas (n_comida) values ('Carne de Cerdo');
 insert into comidas (n_comida) values ('Lechuga');
 insert into comidas (n_comida) values ('Tomate');
+
+
+![Captura de pantalla 2024-08-08 161507](https://github.com/user-attachments/assets/3f11e4dd-211e-493a-85a8-11d997dcbc50)
+
+Hola
