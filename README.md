@@ -11,8 +11,8 @@ create table ordenes(
 	id_comida INTEGER REFERENCES comidas(id_comida)
 );
 
-insert into comidas (n_comida) values ('Manzana');
-insert into comidas (n_comida) values ('Pera');
+insert into comidas (n_comida) values ('Manzana'); \n
+insert into comidas (n_comida) values ('Pera'); \n
 insert into comidas (n_comida) values ('Mango');
 insert into comidas (n_comida) values ('Uva');
 insert into comidas (n_comida) values ('Calabaza');
@@ -32,7 +32,10 @@ insert into comidas (n_comida) values ('Carne de Cerdo');
 insert into comidas (n_comida) values ('Lechuga');
 insert into comidas (n_comida) values ('Tomate');
 
+![Captura de pantalla 2024-08-08 155839](https://github.com/user-attachments/assets/13c38967-b554-4452-ae36-7cbbc8388a57) \n
+![Captura de pantalla 2024-08-08 161507](https://github.com/user-attachments/assets/3f11e4dd-211e-493a-85a8-11d997dcbc50) \n
 
-![Captura de pantalla 2024-08-08 161507](https://github.com/user-attachments/assets/3f11e4dd-211e-493a-85a8-11d997dcbc50)
+
+
 
 Hola
